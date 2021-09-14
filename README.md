@@ -1,6 +1,10 @@
 # ZKSnoken
 
-This is the capstone project for the Udacity Blockchain Engineer Nanodegree. It involves creating a zk-snark secured ERC721. 
+This is the capstone project for the Udacity Blockchain Developer Nanodegree. It involves creating a zk-snark secured ERC721. 
+
+## Graduation
+
+![Cert](images/udacitycert.PNG?raw=true)
 
 ## Feedback
 
